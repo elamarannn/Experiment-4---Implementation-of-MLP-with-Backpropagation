@@ -119,8 +119,8 @@ Normalize our dataset.
 
 ## PROGRAM:
 ```
-Developed By :Sri Ranjani Priya.P
-Register no.:212222230036
+Developed By : Elamaran S E
+Register no.: 212222230036
 
 import pandas as pd
 import sklearn
